@@ -64,6 +64,5 @@ To add new questions, simply append a new object with the same structure to the 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-3. با همین اسم توی `README.md` رفرنس داده شده، پس فقط کافیه فایل عکس رو کنار بقیه فایل‌ها push کنی
 
 اگه چند تا عکس داری (مثلاً صفحه شروع، صفحه سوال، صفحه نتیجه) بگو تا بخش Screenshots رو برات چندتایی بنویسم.
