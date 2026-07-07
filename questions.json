@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "question": "In which country is Mount Damavand located?",
+        "options": ["USA", "Germany", "Iran"],
+        "answer": "Iran"
+    },
+    {
+        "question": "Which animal is the largest land animal?",
+        "options": ["Lion", "Elephant", "Zebra"],
+        "answer": "Elephant"
+    }
+]
