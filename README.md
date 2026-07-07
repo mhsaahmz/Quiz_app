@@ -14,7 +14,7 @@ A simple desktop quiz application built with Python and Tkinter. Users answer mu
 
 ## Screenshots
 
-![Quiz App Screenshot](screenshot.png)
+![Quiz App Screenshot](screenshots/screenshot.png)
 
 ## Requirements
 
