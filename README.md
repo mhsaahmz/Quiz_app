@@ -63,6 +63,3 @@ To add new questions, simply append a new object with the same structure to the 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-اگه چند تا عکس داری (مثلاً صفحه شروع، صفحه سوال، صفحه نتیجه) بگو تا بخش Screenshots رو برات چندتایی بنویسم.
